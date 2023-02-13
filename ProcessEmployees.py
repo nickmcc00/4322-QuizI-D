@@ -55,7 +55,7 @@ print()
 for info in employee_info: 
     print("manager Name: ", info[0], "New Salary: ", '$' + format(float(info[2]), ','))
 
-    
+print()   
         
 
         
